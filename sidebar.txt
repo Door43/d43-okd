@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[okd:home|Door43 (okd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-okd|d43-okd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-okd/archive/master.zip|d43-okd.zip]]
+
+**Recent Changes**
+{{changes>ns = okd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/okd|Ethnologue data]]
+
